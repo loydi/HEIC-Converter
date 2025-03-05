@@ -13,7 +13,7 @@ A simple HEIC to JPEG/PNG converter using PyQt5 and Pillow.
 
 ### Windows
 
-**Download and Install Python:**
+**Download and Install:**
    - Download the latest version of HEIC Converter exe from git.
    - https://github.com/loydi/HEIC-Converter/archive/refs/heads/main.zip
    - Run the HEICConverter_WIN_setup.exe.
