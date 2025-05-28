@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'c:\Users\kemal.yildirim\Dropbox\Workspace\Bash\HEIC_converter_python\HEIC_converter\form.ui'
-#
 # Created by: PyQt5 UI code generator 5.15.11
 #
 # WARNING: Any manual changes made to this file will be lost when pyuic5 is
